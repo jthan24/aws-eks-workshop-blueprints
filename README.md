@@ -9,6 +9,20 @@ Before start with this workshop you need to execute the instructions on the file
 
 Currently the lab mentio generate a cloud9 env for execute the lab, but the objetive is not used cloud9 because we will install all tools for this workshop
 
+# useful links
+- https://github.com/aws-samples/eks-blueprints-workloads/tree/main/envs/dev/templates
+- https://github.com/aws-samples/eks-blueprints-workloads
+- https://github.com/aws-samples/eks-blueprints-add-ons
+- https://github.com/aws-ia/terraform-aws-eks-blueprints/tree/main/examples
+- https://github.com/aws-ia/terraform-aws-eks-blueprints
+- https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc
+- https://registry.terraform.io/providers/hashicorp/aws/latest
+- https://techlibrary.hpe.com/docs/otlink-wo/CIDR-Conversion-Table.html
+- https://docs.aws.amazon.com/cli/latest/reference/eks/list-clusters.html
+- https://github.com/jthan24/eks-blueprints-workloads/tree/main/envs
+
+
 
 # reference commands
 ```bash
